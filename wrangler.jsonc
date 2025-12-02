@@ -3,5 +3,21 @@
   "compatibility_date": "2025-12-02",
   "assets": {
     "directory": "./"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "solara.nicoles.dpdns.org",
+      "zone_name": "nicoles.dpdns.org",
+      "custom_domain": true
+    }
+  ],
+  "vars": {
+    "PASSWORD": "23182318"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5ff8921a-6f95-4b66-bece-657df7aa0eef"
+    }
+  ]
 }
