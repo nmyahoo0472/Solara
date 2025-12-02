@@ -1,5 +1,7 @@
 {
   "name": "solara",
   "compatibility_date": "2025-12-02",
-  "main": "src/index.ts"
+  "assets": {
+    "directory": "./"
+  }
 }
